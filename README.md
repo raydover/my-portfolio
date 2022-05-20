@@ -13,9 +13,9 @@ The assignement required working on new code to create a portfolio for current &
 
 ## Resources
 
--[LIVE SITE](https://github.com/raydover/my-portfolio)
+-[LIVE SITE](https://raydover.github.io/my-portfolio/))
 
--[Repository](https://raydover.github.io/my-portfolio/)
+-[Repository](https://github.com/raydover/my-portfolio))
 
 ## Visuals
 
@@ -25,4 +25,3 @@ The assignement required working on new code to create a portfolio for current &
 ## Authors and Acknowledgements
 
 created & optimized by UNCC Coding Bootcamp Student, Raymond Dover
-
