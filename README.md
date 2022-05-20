@@ -13,9 +13,9 @@ The assignement required working on new code to create a portfolio for current &
 
 ## Resources
 
--[LIVE SITE](https://raydover.github.io/my-portfolio/))
+-[LIVE SITE](https://raydover.github.io/my-portfolio/)
 
--[Repository](https://github.com/raydover/my-portfolio))
+-[Repository](https://github.com/raydover/my-portfolio)
 
 ## Visuals
 
