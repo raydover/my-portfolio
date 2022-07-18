@@ -5,9 +5,9 @@
 1. [Description](#description)
 2. [Resources](#resources)
 3. [Visuals](#visuals)
-4. [Author and Aknowledgement](#author-and-aknowledgements)
+4. [Author and Acknowledgements](#author-and-acknowledgements)
 
-## Decription
+## Description
 
 The assignement required working on new code to create a portfolio for current & future use. Use the acceptance criteria as a guide for how you'll plan deadlines, sketch, and code your portfolio.
 
@@ -20,8 +20,8 @@ The assignement required working on new code to create a portfolio for current &
 ## Visuals
 
 
-![My Portfolio Screen Shot]("Insert Picture Here")
+![My Portfolio Screen Shot](./assets/my-first-portfolio.png)
 
-## Authors and Acknowledgements
+## Author and Acknowledgements
 
 created & optimized by UNCC Coding Bootcamp Student, Raymond Dover
