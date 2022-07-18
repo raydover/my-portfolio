@@ -20,7 +20,7 @@ The assignement required working on new code to create a portfolio for current &
 ## Visuals
 
 
-![My Portfolio Screen Shot](./assets/my-first-portfolio.png)
+![My Portfolio Screen Shot](./assets/images/my-portfolio.png)
 
 ## Author and Acknowledgements
 
