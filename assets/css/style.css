@@ -4,13 +4,12 @@
     margin: 0;
 }
 
-head {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'Sans-Serif';
+body {
     background-color: black;
-    color: white;
 }
 
-body {
+header {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'Sans-Serif';
     background-color: black;
 }
 
@@ -22,7 +21,6 @@ header h1 {
 }
 
 header h1 .seo {
-    /* Sets selector header h1 seo text color element */
     color: goldenrod;
 }
 
@@ -51,14 +49,14 @@ h2 {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("https://via.placeholder.com/550x300");
+    background-image: url("https://via.placeholder.com/1430x900");
     background-size: cover;
     background-position: center;
 }
 
 h3 {
-    margin-left: 600px; 
-    font-size: 225px;
+    margin-left: 700px; 
+    font-size: 200px;
     color: white;
 }
 
@@ -74,8 +72,12 @@ main {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #7c858a;
     color: #ffffff;
+}
+
+.about-me img {
+    max-height: 200px;
 }
 
 .about-me h4 {
@@ -83,8 +85,8 @@ main {
     font-size: 36px;
 }
 
-.about-me img {
-    max-height: 200px;
+p {
+    font-size: 16px;
 }
 
 .work {
@@ -92,8 +94,12 @@ main {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #7c858a;
     color: #ffffff;
+}
+
+.work img {
+    max-height: 200px;
 }
 
 .work h4 {
@@ -101,30 +107,48 @@ main {
     font-size: 36px;
 }
 
-.work img {
-    max-height: 200px;
-}
-
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-p {
-    font-size: 16px;
+aside {
+    margin-right: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #7c858a;
+}
+
+aside h5 {
     color: white;
+    font-size: 36px;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
-h4 {
-    color: white;
-    font-size: 38px; 
+.get-in-touch img {
+    max-height: 250px;
+    margin: 20px;
 }
 
-h5 {
+aside h6 {
     color: white;
     font-size: 20px;
     text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.float-center {
+    float: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 footer {
@@ -134,9 +158,14 @@ footer {
     text-align: center;
 }
 
-footer h6 {
+footer h5 {
     color: white;
-    font-size: 28px;
+    font-size: 18px;
     text-align: center;
 }
 
+footer h6 {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
